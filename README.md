@@ -6,7 +6,9 @@
 - Period for the finals: 2020.10.23 ~ 2020.11.16
 
 ## Analysis Process Description
-- 과정 정리하자~~
+1. Data Preprocessing
+2. Exploratory Data Analysis
+3. Conclusion
 
 ## What I did felt
 - 처음으로 팀장으로써 팀원들과 함께 분석했지만, 팀원으로 있을때는 몰랐던 팀장의 고충을 느낄 수 있었다.
