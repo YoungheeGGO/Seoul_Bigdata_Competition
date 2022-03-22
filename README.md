@@ -5,6 +5,9 @@
 - Mentoring period for qualifying candidates: 2020.10.30
 - Period for the finals: 2020.10.23 ~ 2020.11.16
 
+## Why did we analyze the data?
+- There are a lot of complaints about a personal mobility parking unarranged from Seoul resident. (대충 서울 시민들이 퍼스널 모빌리티 무단 주차에 대한 불평이 많았다~)
+
 ## Analysis Process Description
 1. Data Preprocessing
 2. Exploratory Data Analysis
