@@ -12,7 +12,7 @@
   - (ref: Korea Transport Institute)
 - So, We want to help the policymakers to choose a proper parking lot for personal mobility by using data analysis.
 - What is personal mobiity?
-  - ![](https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/11/19105658/evpost_%EC%98%A4%EB%9D%BD%EA%B0%80%EB%9D%BD-%EC%A0%84%EB%8F%99%ED%82%A5%EB%B3%B4%EB%93%9C-%EA%B7%9C%EC%A0%9C-%EB%8F%84%EB%A1%9C%EB%8A%94-%EC%9C%84%ED%97%98%ED%95%98%EB%8B%A4-evpost-03.jpg)
+  - ![](https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/11/19105658/evpost_%EC%98%A4%EB%9D%BD%EA%B0%80%EB%9D%BD-%EC%A0%84%EB%8F%99%ED%82%A5%EB%B3%B4%EB%93%9C-%EA%B7%9C%EC%A0%9C-%EB%8F%84%EB%A1%9C%EB%8A%94-%EC%9C%84%ED%97%98%ED%95%98%EB%8B%A4-evpost-03.jpg){}
 
 
 ## Analysis Process Description
