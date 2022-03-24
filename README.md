@@ -8,22 +8,23 @@
 ## Why did we analyze the data?
 - There are many complaints from Seoul citizens that there is no personal mobility parking lot.
   - (ref: Seoul City Hall Complaint Website)
-- In 2020 Korea, The market for shared electric mobility is growing bigger and biger.
+- In 2020 Korea, The market for shared electric mobility is growing bigger and bigger.
   - (ref: Korea Transport Institute)
 - So, We want to help the policymakers to choose a proper parking lot for personal mobility by using data analysis.
-- What is personal mobiity?
-  - ![](https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/11/19105658/evpost_%EC%98%A4%EB%9D%BD%EA%B0%80%EB%9D%BD-%EC%A0%84%EB%8F%99%ED%82%A5%EB%B3%B4%EB%93%9C-%EA%B7%9C%EC%A0%9C-%EB%8F%84%EB%A1%9C%EB%8A%94-%EC%9C%84%ED%97%98%ED%95%98%EB%8B%A4-evpost-03.jpg){}
+- What is personal mobility?
+  - <img src="https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/11/19105658/evpost_%EC%98%A4%EB%9D%BD%EA%B0%80%EB%9D%BD-%EC%A0%84%EB%8F%99%ED%82%A5%EB%B3%B4%EB%93%9C-%EA%B7%9C%EC%A0%9C-%EB%8F%84%EB%A1%9C%EB%8A%94-%EC%9C%84%ED%97%98%ED%95%98%EB%8B%A4-evpost-03.jpg" width="200">
 
 
 ## Analysis Process Description
+1. 사전조사
 
-1. Data Preprocessing
+2. Data Preprocessing
 - 
 
-2. Exploratory Data Analysis
+3. Exploratory Data Analysis
 
 
-3. Conclusion
+4. Conclusion
 
 
 ## What I did felt
