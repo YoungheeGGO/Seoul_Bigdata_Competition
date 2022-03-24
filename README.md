@@ -6,12 +6,25 @@
 - Period for the finals: 2020.10.23 ~ 2020.11.16
 
 ## Why did we analyze the data?
-- There are a lot of complaints about a personal mobility parking unarranged from Seoul resident. (대충 서울 시민들이 퍼스널 모빌리티 무단 주차에 대한 불평이 많았다~)
+- There are many complaints from Seoul citizens that there is no personal mobility parking lot.
+  - (ref: Seoul City Hall Complaint Website)
+- In 2020 Korea, The market for shared electric mobility is growing bigger and biger.
+  - (ref: Korea Transport Institute)
+- So, We want to help the policymakers to choose a proper parking lot for personal mobility by using data analysis.
+- What is personal mobiity?
+  - ![](https://d3jn14jkdoqvmm.cloudfront.net/wp/wp-content/uploads/2020/11/19105658/evpost_%EC%98%A4%EB%9D%BD%EA%B0%80%EB%9D%BD-%EC%A0%84%EB%8F%99%ED%82%A5%EB%B3%B4%EB%93%9C-%EA%B7%9C%EC%A0%9C-%EB%8F%84%EB%A1%9C%EB%8A%94-%EC%9C%84%ED%97%98%ED%95%98%EB%8B%A4-evpost-03.jpg)
+
 
 ## Analysis Process Description
+
 1. Data Preprocessing
+- 
+
 2. Exploratory Data Analysis
+
+
 3. Conclusion
+
 
 ## What I did felt
 - 처음으로 팀장으로써 팀원들과 함께 분석했지만, 팀원으로 있을때는 몰랐던 팀장의 고충을 느낄 수 있었다.
