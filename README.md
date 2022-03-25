@@ -26,18 +26,37 @@
   1. Commuting type 
   2. Individual lifestyle type
   <img src="https://user-images.githubusercontent.com/102137580/160080753-01c43066-e5cf-4de5-a2bd-321abcef261a.png" width="500">
+  - We planned to analyze parking lots based on residential, subway stations, work areas and commercial area.
  
 
 **2. Data Preprocessing**
-- 서울시 빅데이터 캠퍼스 데이터
-- 
+- Used data 
+  - [*Residence*] Resident population data at the administrative "Dong" unit in Seoul(.txt) 
+  - [*Subway station*] Information on the number of people getting on and off by station by subway line in Seoul.(.csv) 
+  - [*Subway station*] Metropolitan subway spatial data (.shp) 
+  - [*Commercial space*] Commercial district data of Seoul(.csv) 
+  - [*Workplace*] Workplace population data(.shp)
+  - [*Workplace*] Seoul Business district development individual index data(.shp)
+  - Current Status of major parks in Seoul(.csv) 
+  - Building Space Data Based on Road Name Address in Seoul(.shp) 
+- Data in Seoul were filtered and merged into the same unit .
 
 **3. Exploratory Data Analysis**
-- 필터링
-- 
+- We used QGIS program.
+- Since users(shared kickboard users) travel 1.6 km on average and the distance suitable for walking for general purposes is 700m, we extracted 0.7 km to 1.6 km sections from subway stations.
+  - (ref: Comparing the Service Coverages of Subways and Buses and Estimating the Walking Distances of Their Users, Kyung Whan Kim et al. 2010)
+  - (ref: Report that analysed usage data from Elecle, shared kickboard service company)
+  - <img src="https://user-images.githubusercontent.com/102137580/160127663-1637ab62-870a-47fd-9419-b70ad5f04091.png" width="300">
+- And We overlapped the top workplace, residence, commercial space to that subway area respectively.
+  -  <img src="https://user-images.githubusercontent.com/102137580/160129187-5e119174-d1b3-422b-8ce7-c92be134f44c.png" width="300">
+  - <img src="https://user-images.githubusercontent.com/102137580/160129622-b273a987-4711-431b-a41e-b837431af915.png" width="300">
+  - <img src="https://user-images.githubusercontent.com/102137580/160130034-2e2af587-ae5c-47ca-be30-e2b0d058a427.png" width="300">
+- We put all the extracted area together.
+  - <img src="https://user-images.githubusercontent.com/102137580/160130847-16b17f50-ef65-41b7-9931-e0b9d535c895.png" width="300">
+
 
 **4. Conclusion**
-- We proposed the parking lot where the following.
+- We proposed the parking lot where 공공부지, 근린공원이 있는 공간
 - 
 
 ## What I did felt
