@@ -12,32 +12,33 @@
   - (ref: Korea Transport Institute)
 - So, We want to help the policymakers to choose a proper parking lot for personal mobility by using data analysis.
 - What is personal mobility?
-  - <img src="https://user-images.githubusercontent.com/102137580/160077823-c7c4cf19-dbc7-4e52-a159-256885cca079.png" width="200">
+  - <img src="https://user-images.githubusercontent.com/102137580/160078259-e01e4f1f-b7ad-449d-8ec7-5b011a85eaa4.png" width="200">
+
 
   - This is personal mobility. Especially we used the "kickboard" data for analysis. 
 
 
 ## Analysis Process Description
-**1.Preliminary investigation **
+
+**1. Preliminary investigation**
 - We read the paper about shared electric kickboards and categorized users according to their purpose.
   - Paper : Empirical analysis of the factors affecting the satisfaction and behavior of individuals using shared electric kickboards. -A Case study of Seoul- (Daeun Ahn, Gongju University, 2020)
-- 1. Commuting type 
-  
-- 2. Individual lifestyle type
-
-- <img src="https://user-images.githubusercontent.com/102137580/160076860-51692ca0-19ed-4e68-8598-4179fecebec9.png" width="500">
-
-
+  1. Commuting type 
+  2. Individual lifestyle type
+  <img src="https://user-images.githubusercontent.com/102137580/160080753-01c43066-e5cf-4de5-a2bd-321abcef261a.png" width="500">
  
 
 **2. Data Preprocessing**
+- 서울시 빅데이터 캠퍼스 데이터
 - 
 
 **3. Exploratory Data Analysis**
-
+- 필터링
+- 
 
 **4. Conclusion**
-
+- We proposed the parking lot where the following.
+- 
 
 ## What I did felt
 - 처음으로 팀장으로써 팀원들과 함께 분석했지만, 팀원으로 있을때는 몰랐던 팀장의 고충을 느낄 수 있었다.
