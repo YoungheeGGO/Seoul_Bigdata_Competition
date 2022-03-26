@@ -56,22 +56,22 @@
 
 
 **4. Conclusion**
-- We proposed the parking lot where 공공부지, 근린공원이 있는 공간
-- 
-
+- We proposed the parking lot with public land and parks.
+  - <img src="https://user-images.githubusercontent.com/102137580/160224175-fb64fa59-5c5d-47f0-8562-4ff7df71d59a.png" width="300"> 
+  
+  
 ## What I did felt
-- 처음으로 팀장으로써 팀원들과 함께 분석했지만, 팀원으로 있을때는 몰랐던 팀장의 고충을 느낄 수 있었다.
-- 좀 더 구체적으로 써야지~<br/>
-- 그리고 현직자 멘토링 데이라는 것도 있어서 공모전 제출작에 대한 피드백도 많이 받을 수 있어서 좋았다. -> 멘토링 이후 분석을 좀 더 깊게 분석을 했다.
-- 오히려 예선보다 본선에 진출해서 분석을 더 열심히 한 느낌~!
-- 시상식 자리에서는 다른 팀들의 분석과정도 볼 수 있어서 많은 걸 보고 들었다. 다음에 1등 팀이 쓴 EM 알고리즘도 써보고 싶다.
-- 내가 발표를 잘 못한다는 것을 깨달았던 공모전! 발표력을 기르자~
-- 데이터 분석가는 사회의 불편한 점을 알고, 데이터를 통해 그 문제를 해결할 수 있는 방향을 찾아 사람들에게 알려주는 스토리 텔러인 것 같다는 생각을 했다.
+
+- This is my first time leading a team. When I was just participating in another contest, I didn't feel a huge responsibility. (It means I didn't mind about the award.) But I am a team leader and I want us all to face a good result.
+- I think a data analyst has a role as a storyteller in society. We must detect an uncomfortable thing in living a life and find the solution by analyzing data. For data scientists, It is important to tell analysis results for other people who don't know about analysis skills as well as analysis.
+- I can learn a variety of analysis skills from final presentations in others. The team that won 1st prize applied EM algorithms. That was interesting! Someday, I will study EM algorithms and apply them to real-world datasets.
+- I need to imporove my presentation skill.
+  - My presentation video link in Korean: https://www.youtube.com/watch?v=cAdtNeOy7UQ
 
 ## Need to improvement
-- 일단, 팀원들이 기본적인 "모델링"에 관한 개념이 없어서 EDA과정만 진행했는데, 개인적으로는 조금 아쉬웠다.
-- 모델링 과정을 추가했으면 좀 더 정책결정권자들에게 도움이 되는 분석이 되지 않았을까하는 생각
-  - 팀원들에게 하나부터 열까지 가르치면서 진행할 수 있는 시간이 없었다. (+중간고사 기간) :(
-- 따릉이 보관소, 자전거 보관소 등 고려
-  > 처음에는 서울 시내에 있는 자전거 보관소를 고려하자고 팀원들에게 말했지만, 팀원들이 자전거와 퍼스널 모빌리티의 사용자들 성향이 다르다는 의견이 있어 자전거 보관소를 고려하지 않았다. 하지만, 본선에서 심사위원들의 질의응답 시간에 기존에 있는 자전거 보관소 & 따릉이 보관소 데이터를 활용했으면 더 좋았을 것이라는 말에 나는 "퍼스널 모빌리티는 사용자들이 라스트 마일, 즉 최종 목적지까지 가는 가장 마지막 이동 수단이기 때문에 자전거라는 이동수단과 사용패턴이 달라 고려하지 않았다."라고 대답했다. 이 말에 또 다른 심사위원은 그래도 고려해보지.. 라고 말씀하시는 분 도 계셨고, 어떤 심사위원은 내 말에 동의하면서 실제로 따릉이는 출퇴근 수단으로 많이 쓰여서 퍼스널 모빌리티와는 결이 다르다고 말해주신 분도 계셨다. (이 때 얼마나 고마웠던지..) Q&A 시간 때 이렇게 심사위원들끼리 이야기해서 사실 이 프로젝트에서 따릉이 보관소나 자전거 보관소를 고려했어야 하는 지 아직도 잘 모르겠다.
+- It's a shame not to process modeling. With the modeling process, We could apply a statistical method and understand the knowledge deeply.
+- We can use a data about informs bicycle storage or Ttareungi, the formal shared bicycle administered by Seoul.
+  > At first, we considered the data, but we thought there is a different purpose between shared bicycles and shared kickboards. Shared kickboard is often said as "last-mile mobility" which means the final step for going destination. So, the mobility takes a short distance. But the shared bicycles take more long distances. For example, a person who uses a shared kickboard for going to work takes the service from home to the subway station. The other person who uses a shared bicycle takes the service from home to the workplace. We said this to juror for the contest, but some of them didn't agree with our opinion and some of them agree with us. 
+
+
 
