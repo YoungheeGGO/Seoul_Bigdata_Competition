@@ -26,7 +26,7 @@
   1. Commuting type 
   2. Individual lifestyle type
   <img src="https://user-images.githubusercontent.com/102137580/160080753-01c43066-e5cf-4de5-a2bd-321abcef261a.png" width="500">
-  - We planned to analyze parking lots based on residential, subway stations, work areas and commercial area.
+  - We planned to analyze parking lots based on residential, subway stations, work areas and commercial areas.
  
 
 **2. Data Preprocessing**
@@ -45,7 +45,7 @@
 - We used QGIS program.
 - Since users(shared kickboard users) travel 1.6 km on average and the distance suitable for walking for general purposes is 700m, we extracted 0.7 km to 1.6 km sections from subway stations.
   - (ref: Comparing the Service Coverages of Subways and Buses and Estimating the Walking Distances of Their Users, Kyung Whan Kim et al. 2010)
-  - (ref: Report that analysed usage data from Elecle, shared kickboard service company)
+  - (ref: Report that analyzed usage data from Elecle, shared kickboard service company)
   - <img src="https://user-images.githubusercontent.com/102137580/160127663-1637ab62-870a-47fd-9419-b70ad5f04091.png" width="300">
 - And We overlapped the top workplace, residence, commercial space to that subway area respectively.
   -  <img src="https://user-images.githubusercontent.com/102137580/160129187-5e119174-d1b3-422b-8ce7-c92be134f44c.png" width="300">
@@ -74,3 +74,4 @@
   - 팀원들에게 하나부터 열까지 가르치면서 진행할 수 있는 시간이 없었다. (+중간고사 기간) :(
 - 따릉이 보관소, 자전거 보관소 등 고려
   > 처음에는 서울 시내에 있는 자전거 보관소를 고려하자고 팀원들에게 말했지만, 팀원들이 자전거와 퍼스널 모빌리티의 사용자들 성향이 다르다는 의견이 있어 자전거 보관소를 고려하지 않았다. 하지만, 본선에서 심사위원들의 질의응답 시간에 기존에 있는 자전거 보관소 & 따릉이 보관소 데이터를 활용했으면 더 좋았을 것이라는 말에 나는 "퍼스널 모빌리티는 사용자들이 라스트 마일, 즉 최종 목적지까지 가는 가장 마지막 이동 수단이기 때문에 자전거라는 이동수단과 사용패턴이 달라 고려하지 않았다."라고 대답했다. 이 말에 또 다른 심사위원은 그래도 고려해보지.. 라고 말씀하시는 분 도 계셨고, 어떤 심사위원은 내 말에 동의하면서 실제로 따릉이는 출퇴근 수단으로 많이 쓰여서 퍼스널 모빌리티와는 결이 다르다고 말해주신 분도 계셨다. (이 때 얼마나 고마웠던지..) Q&A 시간 때 이렇게 심사위원들끼리 이야기해서 사실 이 프로젝트에서 따릉이 보관소나 자전거 보관소를 고려했어야 하는 지 아직도 잘 모르겠다.
+
