@@ -60,7 +60,7 @@
   - <img src="https://user-images.githubusercontent.com/102137580/160224175-fb64fa59-5c5d-47f0-8562-4ff7df71d59a.png" width="300"> 
   
   
-## What I did felt
+## What I felt.
 
 - This is my first time leading a team. When I was just participating in another contest, I didn't feel a huge responsibility. (It means I didn't mind about the award.) But I am a team leader and I want us all to face a good result.
 - I think a data analyst has a role as a storyteller in society. We must detect an uncomfortable thing in living a life and find the solution by analyzing data. For data scientists, It is important to tell analysis results for other people who don't know about analysis skills as well as analysis.
