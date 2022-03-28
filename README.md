@@ -68,7 +68,7 @@
 - I need to imporove my presentation skill.
   - My presentation video link in Korean: https://www.youtube.com/watch?v=cAdtNeOy7UQ
 
-## Need to improvement
+## The point that need to improvement
 - It's a shame not to process modeling. With the modeling process, We could apply a statistical method and understand the knowledge deeply.
 - We can use a data about informs bicycle storage or Ttareungi, the formal shared bicycle administered by Seoul.
   > At first, we considered the data, but we thought there is a different purpose between shared bicycles and shared kickboards. Shared kickboard is often said as "last-mile mobility" which means the final step for going destination. So, the mobility takes a short distance. But the shared bicycles take more long distances. For example, a person who uses a shared kickboard for going to work takes the service from home to the subway station. The other person who uses a shared bicycle takes the service from home to the workplace. We said this to juror for the contest, but some of them didn't agree with our opinion and some of them agree with us. 
