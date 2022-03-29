@@ -12,7 +12,7 @@
   - (ref: Korea Transport Institute)
 - So, We want to help the policymakers to choose a proper parking lot for personal mobility by using data analysis.
 - What is personal mobility?
-  - <img src="https://user-images.githubusercontent.com/102137580/160078259-e01e4f1f-b7ad-449d-8ec7-5b011a85eaa4.png" width="200">
+  - <img src="https://user-images.githubusercontent.com/102137580/160078259-e01e4f1f-b7ad-449d-8ec7-5b011a85eaa4.png" width="200"></br>
 
 
   - This is personal mobility. Especially we used the "kickboard" data for analysis. 
@@ -24,8 +24,8 @@
 - We read the paper about shared electric kickboards and categorized users according to their purpose.
   - Paper : Empirical analysis of the factors affecting the satisfaction and behavior of individuals using shared electric kickboards. -A Case study of Seoul- (Daeun Ahn, Gongju University, 2020)
   1. Commuting type 
-  2. Individual lifestyle type
-  <img src="https://user-images.githubusercontent.com/102137580/160080753-01c43066-e5cf-4de5-a2bd-321abcef261a.png" width="500">
+  2. Individual lifestyle type</br>
+  <img src="https://user-images.githubusercontent.com/102137580/160080753-01c43066-e5cf-4de5-a2bd-321abcef261a.png" width="500"></br>
   - We planned to analyze parking lots based on residential, subway stations, work areas and commercial areas.
  
 
