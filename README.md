@@ -1,9 +1,9 @@
 **The python code can't be uploaded because of data authority issue**
 
 # 2020 Seoul Big Data Campus Contest
-- Period for the preliminary : 2020.09.20 ~ 10.14
-- Mentoring period for qualifying candidates: 2020.10.30
-- Period for the finals: 2020.10.23 ~ 2020.11.16
+- Period for the preliminary : 09/20/2020 ~ 10/14/2020
+- Mentoring period for qualifying candidates: 10/30/2020
+- Period for the finals: 10/23/2020 ~ 11/16/2020
 
 ## Why did we analyze the data?
 - There are many complaints from Seoul citizens that there is no personal mobility parking lot.
